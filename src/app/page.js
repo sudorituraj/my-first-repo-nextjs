@@ -36,7 +36,7 @@ export default function Home() {
     </div>
 
       <button onClick={() => getData()}>
-        get data
+        get data from api
       </button>
     </main>
   )
